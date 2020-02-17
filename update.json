@@ -16,6 +16,6 @@
 	{
 	"update": "http://google.com",
 	"error": "01"
-	}]
-
+	}],
+ "download": "https://google.com"
  }
